@@ -1,0 +1,43 @@
+T1	Technical_Term 45 54	CONFLEX-G
+T2	Technical_Term 56 114	Grid-enabled Molecular Conformational Space Search Program
+T3	Technical_Term 120 127	OmniRPC
+T4	Technical_Term 128 137	CONFLEX-G
+T5	Technical_Term 145 157	grid-enabled
+T6	Technical_Term 171 216	molecular conformational space search program
+T7	Technical_Term 224 231	CONFLEX
+T8	Technical_Term 253 262	CONFLEX-G
+T9	Technical_Term 271 286	grid RPC system
+T10	Technical_Term 294 301	OmniRPC
+T11	Technical_Term 347 356	CONFLEX-G
+T12	Technical_Term 413 424	PC clusters
+T13	Technical_Term 362 374	grid testbed
+T14	Technical_Term 451 463	conformation
+T15	Technical_Term 473 486	bio-molecules
+T16	Technical_Term 488 497	CONFLEX-G
+T17	Technical_Term 508 524	trial structures
+T18	Technical_Term 532 541	molecules
+T19	Technical_Term 556 560	jobs
+T20	Technical_Term 575 590	trial structure
+T21	Technical_Term 607 633	molecular mechanics method
+T22	Technical_Term 641 645	grid
+T23	Technical_Term 647 654	OmniRPC
+T24	Technical_Term 710 740	parametric search applications
+T25	Technical_Term 809 819	RPC module
+T26	Technical_Term 959 972	communication
+T27	Technical_Term 977 991	initialization
+T28	Technical_Term 766 790	initialization procedure
+T29	Technical_Term 902 926	initialization procedure
+T30	Technical_Term 1000 1004	call
+T31	Technical_Term 1008 1017	CONFLEX-G
+T32	Technical_Term 1019 1028	CONFLEX-G
+T33	Technical_Term 1067 1078	CONFLEX MPI
+T34	Technical_Term 1100 1119	computing resources
+T35	Technical_Term 1145 1152	cluster
+T36	Technical_Term 1165 1173	clusters
+T37	Technical_Term 1181 1185	grid
+T38	Technical_Term 1222 1231	CONFLEX-G
+T39	Technical_Term 1284 1297	1BL1 molecule
+T40	Technical_Term 1364 1392	trial structure optimization
+T41	Technical_Term 1424 1438	load imbalance
+T42	Technical_Term 1446 1463	optimization time
+T43	Technical_Term 1471 1486	trial structure

@@ -1,0 +1,24 @@
+T1	Technical_Term 3 26	Architectural Framework
+T2	Technical_Term 33 43	Middleware
+T3	Technical_Term 60 76	Smart Components
+T4	Technical_Term 127 140	smart sensors
+T5	Technical_Term 145 154	actuators
+T6	Technical_Term 262 272	telematics
+T7	Technical_Term 274 292	traffic management
+T8	Technical_Term 294 307	team robotics
+T9	Technical_Term 311 326	home automation
+T10	Technical_Term 655 669	responsiveness
+T11	Technical_Term 674 692	safety criticality
+T12	Technical_Term 957 965	hardware
+T13	Technical_Term 970 978	software
+T14	Technical_Term 985 1002	network interface
+T15	Technical_Term 1260 1277	network interface
+T16	Technical_Term 1074 1093	software components
+T17	Technical_Term 1417 1427	middleware
+T18	Technical_Term 1490 1516	events-based communication
+T19	Technical_Term 1689 1693	GEAR
+T20	Technical_Term 1662 1688	generic event architecture
+T21	Technical_Term 1806 1825	generic event layer
+T22	Technical_Term 1781 1800	generic event layer
+T23	Technical_Term 1936 1946	middleware
+T24	Technical_Term 2286 2321	computational and network resources

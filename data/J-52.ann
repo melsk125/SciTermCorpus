@@ -1,0 +1,24 @@
+T1	Technical_Term 17 34	Multi-Hop Routing
+T2	Technical_Term 38 56	multi-hop networks
+T3	Technical_Term 90 108	intermediate nodes
+T4	Technical_Term 139 162	communicating endpoints
+T5	Technical_Term 172 181	endpoints
+T6	Technical_Term 216 239	end-to-end transmission
+T7	Technical_Term 313 356	rational (i.e., selfish) intermediate nodes
+T8	Technical_Term 379 386	packets
+T9	Technical_Term 427 434	packets
+T10	Technical_Term 451 472	principal-agent model
+T11	Technical_Term 490 511	hidden-action problem
+T12	Technical_Term 0 13	Hidden-Action
+T13	Technical_Term 558 567	contracts
+T14	Technical_Term 593 611	endpoints contract
+T15	Technical_Term 633 639	router
+T16	Technical_Term 661 677	router contracts
+T17	Technical_Term 703 709	router
+T18	Technical_Term 746 764	per-hop monitoring
+T19	Technical_Term 813 822	principal
+T20	Technical_Term 798 805	utility
+T21	Technical_Term 830 844	social welfare
+T22	Technical_Term 922 940	hidden-information
+T23	Technical_Term 976 994	hidden-information
+T24	Technical_Term 999 1012	hidden-action

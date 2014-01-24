@@ -1,0 +1,27 @@
+T1	Technical_Term 0 24	Communication Complexity
+T2	Technical_Term 28 47	Common Voting Rules
+T3	Technical_Term 65 89	communication complexity
+T4	Technical_Term 97 116	common voting rules
+T5	Technical_Term 145 169	communication complexity
+T6	Technical_Term 226 250	single transferable vote
+T7	Technical_Term 252 255	STV
+T8	Technical_Term 192 201	plurality
+T9	Technical_Term 203 224	plurality with runoff
+T10	Technical_Term 258 267	Condorcet
+T11	Technical_Term 269 277	approval
+T12	Technical_Term 279 286	Bucklin
+T13	Technical_Term 288 291	cup
+T14	Technical_Term 293 300	maximin
+T15	Technical_Term 302 307	Borda
+T16	Technical_Term 309 317	Copeland
+T17	Technical_Term 323 335	ranked pairs
+T18	Technical_Term 368 404	deterministic communication protocol
+T19	Technical_Term 412 423	upper bound
+T20	Technical_Term 441 445	bits
+T21	Technical_Term 482 493	lower bound
+T22	Technical_Term 525 538	communication
+T23	Technical_Term 559 570	voting rule
+T24	Technical_Term 576 582	bounds
+T25	Technical_Term 597 609	voting rules
+T26	Technical_Term 617 620	STV
+T27	Technical_Term 625 632	maximin

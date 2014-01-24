@@ -1,0 +1,28 @@
+T1	Technical_Term 0 16	Frugality Ratios
+T2	Technical_Term 30 49	Truthful Mechanisms
+T3	Technical_Term 54 66	Vertex Cover
+T4	Technical_Term 70 89	set-system auctions
+T5	Technical_Term 130 136	agents
+T6	Technical_Term 298 320	shortest-path auctions
+T7	Technical_Term 325 346	vertex-cover auctions
+T8	Technical_Term 413 428	frugality ratio
+T9	Technical_Term 463 478	frugality ratio
+T10	Technical_Term 656 672	truthful auction
+T11	Technical_Term 706 738	truthful polynomial-time auction
+T12	Technical_Term 747 767	vertex cover problem
+T13	Technical_Term 782 797	frugality ratio
+T14	Technical_Term 878 893	frugality ratio
+T15	Technical_Term 943 959	worst-case bound
+T16	Technical_Term 1069 1085	truthful auction
+T17	Technical_Term 1125 1144	approximation ratio
+T18	Technical_Term 541 554	payment bound
+T19	Technical_Term 1273 1287	payment bounds
+T20	Technical_Term 1297 1309	monotonicity
+T21	Technical_Term 1311 1333	computational hardness
+T22	Technical_Term 1339 1349	robustness
+T23	Technical_Term 1441 1455	payment bounds
+T24	Technical_Term 1503 1522	set-system auctions
+T25	Technical_Term 1532 1545	path auctions
+T26	Technical_Term 1550 1571	vertex-cover auctions
+T27	Technical_Term 1638 1659	vertex-cover auctions
+T28	Technical_Term 1666 1689	bootstrapping technique

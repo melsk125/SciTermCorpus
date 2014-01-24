@@ -1,0 +1,32 @@
+T1	Technical_Term 0 7	AdaRank
+T2	Technical_Term 34 55	Information Retrieval
+T3	Technical_Term 115 133	document retrieval
+T4	Technical_Term 94 102	learning
+T5	Technical_Term 191 204	training data
+T6	Technical_Term 331 334	MAP
+T7	Technical_Term 336 358	Mean Average Precision
+T8	Technical_Term 364 368	NDCG
+T9	Technical_Term 370 407	Normalized Discounted Cumulative Gain
+T10	Technical_Term 420 438	learning algorithm
+T11	Technical_Term 453 466	ranking model
+T12	Technical_Term 541 554	training data
+T13	Technical_Term 606 620	ranking models
+T14	Technical_Term 635 649	loss functions
+T15	Technical_Term 708 719	Ranking SVM
+T16	Technical_Term 724 733	RankBoost
+T17	Technical_Term 740 754	ranking models
+T18	Technical_Term 769 790	classification errors
+T19	Technical_Term 855 873	learning algorithm
+T20	Technical_Term 11 29	Boosting Algorithm
+T21	Technical_Term 898 906	boosting
+T22	Technical_Term 929 942	loss function
+T23	Technical_Term 1019 1026	AdaRank
+T24	Technical_Term 1081 1106	re-weighted training data
+T25	Technical_Term 1204 1220	training process
+T26	Technical_Term 1224 1231	AdaRank
+T27	Technical_Term 1320 1338	benchmark datasets
+T28	Technical_Term 1349 1356	AdaRank
+T29	Technical_Term 1387 1403	baseline methods
+T30	Technical_Term 1407 1411	BM25
+T31	Technical_Term 1413 1424	Ranking SVM
+T32	Technical_Term 1430 1439	RankBoost

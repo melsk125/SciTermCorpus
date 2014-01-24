@@ -1,0 +1,20 @@
+T1	Technical_Term 0 24	Latent Concept Expansion
+T2	Technical_Term 31 51	Markov Random Fields
+T3	Technical_Term 52 67	Query expansion
+T4	Technical_Term 84 109	pseudo-relevance feedback
+T5	Technical_Term 113 131	relevance feedback
+T6	Technical_Term 303 329	modeling term dependencies
+T7	Technical_Term 272 280	features
+T8	Technical_Term 366 391	query expansion technique
+T9	Technical_Term 405 430	Markov random field model
+T10	Technical_Term 435 456	information retrieval
+T11	Technical_Term 480 504	latent concept expansion
+T12	Technical_Term 531 557	modeling term dependencies
+T13	Technical_Term 610 618	features
+T14	Technical_Term 630 635	model
+T15	Technical_Term 690 714	term occurrence features
+T16	Technical_Term 754 774	expansion techniques
+T17	Technical_Term 810 826	relevance models
+T18	Technical_Term 847 890	language modeling query expansion technique
+T19	Technical_Term 1083 1102	multi-term concepts
+T20	Technical_Term 1121 1151	query suggestion/reformulation

@@ -1,0 +1,23 @@
+T1	Technical_Term 0 30	Cross-Lingual Query Suggestion
+T2	Technical_Term 37 47	Query Logs
+T3	Technical_Term 71 87	Query suggestion
+T4	Technical_Term 268 279	input query
+T5	Technical_Term 312 342	cross-lingual query suggestion
+T6	Technical_Term 344 348	CLQS
+T7	Technical_Term 478 514	cross-language information retrieval
+T8	Technical_Term 516 520	CLIR
+T9	Technical_Term 526 555	cross-lingual keyword bidding
+T10	Technical_Term 655 659	CLQS
+T11	Technical_Term 702 713	input query
+T12	Technical_Term 770 779	query log
+T13	Technical_Term 841 867	word translation relations
+T14	Technical_Term 872 901	word co-occurrence statistics
+T15	Technical_Term 933 963	cross-lingual query similarity
+T16	Technical_Term 971 991	discriminative model
+T17	Technical_Term 1028 1039	CLQS system
+T18	Technical_Term 1068 1083	baseline system
+T19	Technical_Term 1093 1127	dictionary-based query translation
+T20	Technical_Term 1152 1156	CLQS
+T21	Technical_Term 1190 1200	CLIR tasks
+T22	Technical_Term 1288 1313	query translation methods
+T23	Technical_Term 620 650	query translation technologies

@@ -1,0 +1,37 @@
+T1	Technical_Term 8 18	Equilibria
+T2	Technical_Term 28 44	Sequential Games
+T3	Technical_Term 48 69	Imperfect Information
+T4	Technical_Term 81 92	equilibrium
+T5	Technical_Term 99 118	extensive form game
+T6	Technical_Term 122 143	imperfect information
+T7	Technical_Term 172 197	computational game theory
+T8	Technical_Term 285 309	ordered game isomorphism
+T9	Technical_Term 318 376	related ordered game isomorphic abstraction transformation
+T10	Technical_Term 384 412	multi-player sequential game
+T11	Technical_Term 416 437	imperfect information
+T12	Technical_Term 469 489	ordered signal space
+T13	Technical_Term 509 525	Nash equilibrium
+T14	Technical_Term 532 555	abstracted smaller game
+T15	Technical_Term 648 664	Nash equilibrium
+T16	Technical_Term 681 685	game
+T17	Technical_Term 701 710	algorithm
+T18	Technical_Term 712 722	GameShrink
+T19	Technical_Term 744 748	game
+T20	Technical_Term 759 770	isomorphism
+T21	Technical_Term 789 799	complexity
+T22	Technical_Term 837 842	nodes
+T23	Technical_Term 870 881	signal tree
+T24	Technical_Term 908 917	game tree
+T25	Technical_Term 926 942	nontrivial games
+T26	Technical_Term 973 983	GameShrink
+T27	Technical_Term 988 1013	time and space complexity
+T28	Technical_Term 1043 1052	game tree
+T29	Technical_Term 1060 1070	GameShrink
+T30	Technical_Term 1083 1094	equilibrium
+T31	Technical_Term 1128 1133	nodes
+T32	Technical_Term 1144 1163	orders of magnitude
+T33	Technical_Term 1275 1285	GameShrink
+T34	Technical_Term 1310 1315	games
+T35	Technical_Term 1330 1351	approximation methods
+T36	Technical_Term 1373 1384	equilibrium
+T37	Technical_Term 1419 1455	provably close-to-optimal strategies

@@ -1,0 +1,23 @@
+T1	Technical_Term 0 24	Laplacian Optimal Design
+T2	Technical_Term 29 44	Image Retrieval
+T3	Technical_Term 45 63	Relevance feedback
+T4	Technical_Term 99 127	ContentBased Image Retrieval
+T5	Technical_Term 129 133	CBIR
+T6	Technical_Term 231 243	CBIR systems
+T7	Technical_Term 289 299	classifier
+T8	Technical_Term 533 543	classifier
+T9	Technical_Term 587 603	training samples
+T10	Technical_Term 639 664	active learning algorithm
+T11	Technical_Term 673 697	Laplacian Optimal Design
+T12	Technical_Term 699 702	LOD
+T13	Technical_Term 709 743	relevance feedback image retrieval
+T14	Technical_Term 773 789	regression model
+T15	Technical_Term 810 828	least square error
+T16	Technical_Term 934 945	image space
+T17	Technical_Term 899 926	local geometrical structure
+T18	Technical_Term 1102 1124	nearest neighbor graph
+T19	Technical_Term 1130 1151	geometrical structure
+T20	Technical_Term 1159 1170	image space
+T21	Technical_Term 1195 1210	graph Laplacian
+T22	Technical_Term 1253 1280	optimal experimental design
+T23	Technical_Term 1489 1523	relevance feedback image retrieval

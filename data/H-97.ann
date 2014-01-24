@@ -1,0 +1,21 @@
+T1	Technical_Term 37 58	Action-Item Detection
+T2	Technical_Term 0 22	Feature Representation
+T3	Technical_Term 246 271	information dissemination
+T4	Technical_Term 281 302	Information Retrieval
+T5	Technical_Term 307 334	Machine Learning techniques
+T6	Technical_Term 369 383	spam filtering
+T7	Technical_Term 388 415	automated folder assignment
+T8	Technical_Term 451 482	automated action-item detection
+T9	Technical_Term 627 659	topic-driven text classification
+T10	Technical_Term 661 682	action-item detection
+T11	Technical_Term 762 789	bag-of-words classification
+T12	Technical_Term 815 827	feature sets
+T13	Technical_Term 837 844	n-grams
+T14	Technical_Term 862 891	chi-squared feature selection
+T15	Technical_Term 897 912	contextual cues
+T16	Technical_Term 917 937	action-item location
+T17	Technical_Term 976 984	unigrams
+T18	Technical_Term 1023 1034	classifiers
+T19	Technical_Term 1043 1047	SVMs
+T20	Technical_Term 1053 1078	automated model selection
+T21	Technical_Term 1083 1108	embedded cross-validation

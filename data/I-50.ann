@@ -1,0 +1,24 @@
+T1	Technical_Term 0 6	Agents
+T2	Technical_Term 8 15	Beliefs
+T3	Technical_Term 21 39	Plausible Behavior
+T4	Technical_Term 45 61	Temporal Setting
+T5	Technical_Term 62 68	Logics
+T6	Technical_Term 72 81	knowledge
+T7	Technical_Term 86 92	belief
+T8	Technical_Term 325 329	CTLK
+T9	Technical_Term 331 368	computation tree logic with knowledge
+T10	Technical_Term 387 399	plausibility
+T11	Technical_Term 447 456	reasoning
+T12	Technical_Term 472 477	CTLKP
+T13	Technical_Term 466 471	logic
+T14	Technical_Term 479 501	CTLK with plausibility
+T15	Technical_Term 540 546	belief
+T16	Technical_Term 550 578	plausibility update operator
+T17	Technical_Term 596 601	logic
+T18	Technical_Term 621 645	plausibility assumptions
+T19	Technical_Term 788 794	belief
+T20	Technical_Term 780 786	models
+T21	Technical_Term 800 813	KD45 modality
+T22	Technical_Term 833 847	model checking
+T23	Technical_Term 848 853	CTLKP
+T24	Technical_Term 857 871	PTIME-complete

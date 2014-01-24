@@ -1,0 +1,30 @@
+T1	Technical_Term 0 10	BuddyCache
+T2	Technical_Term 99 102	WAN
+T3	Technical_Term 81 93	Applications
+T4	Technical_Term 29 43	Object Storage
+T5	Technical_Term 117 129	applications
+T6	Technical_Term 188 195	clients
+T7	Technical_Term 324 331	objects
+T8	Technical_Term 378 396	wide-area networks
+T9	Technical_Term 408 428	high network latency
+T10	Technical_Term 430 440	BuddyCache
+T11	Technical_Term 499 506	latency
+T12	Technical_Term 271 286	persistent data
+T13	Technical_Term 527 545	persistent objects
+T14	Technical_Term 583 595	applications
+T15	Technical_Term 599 632	high-latency network environments
+T16	Technical_Term 450 480	transactional caching approach
+T17	Technical_Term 739 769	transactional caching protocol
+T18	Technical_Term 789 802	node failures
+T19	Technical_Term 812 817	peers
+T20	Technical_Term 841 851	BuddyCache
+T21	Technical_Term 946 956	BuddyCache
+T22	Technical_Term 987 1000	007 benchmark
+T23	Technical_Term 1027 1045	Internet latencies
+T24	Technical_Term 1087 1102	round trip time
+T25	Technical_Term 1110 1124	storage server
+T26	Technical_Term 1126 1131	peers
+T27	Technical_Term 1138 1148	BuddyCache
+T28	Technical_Term 1177 1184	latency
+T29	Technical_Term 1205 1212	objects
+T30	Technical_Term 1239 1253	remote servers

@@ -1,0 +1,48 @@
+T1	Technical_Term 41 45	VolP
+T2	Technical_Term 0 36	Intra-flow Loss Recovery and Control
+T3	Technical_Term 46 82	Best effort packet-switched networks
+T4	Technical_Term 93 101	Internet
+T5	Technical_Term 127 139	transmission
+T6	Technical_Term 143 150	packets
+T7	Technical_Term 154 166	applications
+T8	Technical_Term 172 193	real-time constraints
+T9	Technical_Term 227 234	packets
+T10	Technical_Term 247 272	application-level utility
+T11	Technical_Term 359 366	packets
+T12	Technical_Term 437 448	packet loss
+T13	Technical_Term 457 478	speech signal playout
+T14	Technical_Term 519 526	packets
+T15	Technical_Term 643 650	packets
+T16	Technical_Term 672 688	end-to-end model
+T17	Technical_Term 745 762	loss distribution
+T18	Technical_Term 698 713	loss runlengths
+T19	Technical_Term 784 804	packet-level metrics
+T20	Technical_Term 945 948	PCM
+T21	Technical_Term 908 943	low-compressing sample-based codecs
+T22	Technical_Term 955 971	loss concealment
+T23	Technical_Term 972 994	isolated packet losses
+T24	Technical_Term 1026 1038	burst losses
+T25	Technical_Term 1076 1111	high-compressing frame-based codecs
+T26	Technical_Term 1113 1118	G.729
+T27	Technical_Term 1172 1189	error propagation
+T28	Technical_Term 1204 1227	decoder filter memories
+T29	Technical_Term 1259 1273	coding schemes
+T30	Technical_Term 1290 1306	loss concealment
+T31	Technical_Term 1327 1340	decoder state
+T32	Technical_Term 1354 1373	sample-based codecs
+T33	Technical_Term 1451 1464	speech signal
+T34	Technical_Term 1529 1536	packets
+T35	Technical_Term 1546 1561	voice data flow
+T36	Technical_Term 1588 1599	packet loss
+T37	Technical_Term 1631 1667	intra-flow loss recovery and control
+T38	Technical_Term 1676 1692	end-to-end level
+T39	Technical_Term 1712 1719	packets
+T40	Technical_Term 1758 1774	loss concealment
+T41	Technical_Term 1799 1825	Hop-by-hop support schemes
+T42	Technical_Term 2039 2059	network transmission
+T43	Technical_Term 1997 2004	packets
+T44	Technical_Term 1878 1884	packet
+T45	Technical_Term 2175 2190	additional data
+T46	Technical_Term 2195 2209	delay overhead
+T47	Technical_Term 2251 2266	network service
+T48	Technical_Term 824 867	user-level objective speech quality metrics

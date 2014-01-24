@@ -1,0 +1,18 @@
+T1	Technical_Term 0 4	HITS
+T2	Technical_Term 108 112	HITS
+T3	Technical_Term 138 167	link-based ranking algorithms
+T4	Technical_Term 218 242	text retrieval algorithm
+T5	Technical_Term 254 265	anchor text
+T6	Technical_Term 346 366	mean reciprocal rank
+T7	Technical_Term 372 394	mean average precision
+T8	Technical_Term 404 441	normalized discounted cumulative gain
+T9	Technical_Term 506 526	breadth-first search
+T10	Technical_Term 679 688	query log
+T11	Technical_Term 790 794	HITS
+T12	Technical_Term 807 815	PageRank
+T13	Technical_Term 846 864	web-page in-degree
+T14	Technical_Term 902 921	link-based features
+T15	Technical_Term 944 968	text retrieval algorithm
+T16	Technical_Term 1015 1032	query specificity
+T17	Technical_Term 1092 1111	link-based features
+T18	Technical_Term 1156 1161	BM25F

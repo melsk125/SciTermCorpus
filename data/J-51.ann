@@ -1,0 +1,55 @@
+T1	Technical_Term 0 10	Complexity
+T2	Technical_Term 25 34	Dominance
+T3	Technical_Term 85 90	games
+T4	Technical_Term 97 106	dominance
+T5	Technical_Term 111 129	iterated dominance
+T6	Technical_Term 151 176	strict and weak dominance
+T7	Technical_Term 232 240	strategy
+T8	Technical_Term 262 276	mixed strategy
+T9	Technical_Term 292 307	polynomial time
+T10	Technical_Term 323 343	linear program solve
+T11	Technical_Term 364 382	iterated dominance
+T12	Technical_Term 460 468	strategy
+T13	Technical_Term 472 483	NP-complete
+T14	Technical_Term 489 512	iterated weak dominance
+T15	Technical_Term 578 582	path
+T16	Technical_Term 599 614	unique solution
+T17	Technical_Term 618 629	NP-complete
+T18	Technical_Term 680 689	dominance
+T19	Technical_Term 693 709	mixed strategies
+T20	Technical_Term 764 773	dominance
+T21	Technical_Term 777 793	mixed strategies
+T22	Technical_Term 819 844	Iterated strict dominance
+T23	Technical_Term 908 917	dominance
+T24	Technical_Term 921 937	mixed strategies
+T25	Technical_Term 968 983	polynomial time
+T26	Technical_Term 1021 1040	dominating strategy
+T27	Technical_Term 1070 1081	probability
+T28	Technical_Term 1096 1111	pure strategies
+T29	Technical_Term 1145 1164	dominating strategy
+T30	Technical_Term 1194 1205	NP-complete
+T31	Technical_Term 1216 1241	strict and weak dominance
+T32	Technical_Term 1263 1288	iterated strict dominance
+T33	Technical_Term 1361 1382	dominating strategies
+T34	Technical_Term 1418 1426	strategy
+T35	Technical_Term 1448 1473	iterated strict dominance
+T36	Technical_Term 1500 1511	NP-complete
+T37	Technical_Term 1178 1190	support size
+T38	Technical_Term 1341 1353	support size
+T39	Technical_Term 1540 1552	support size
+T40	Technical_Term 1578 1592	Bayesian games
+T41	Technical_Term 1618 1635	normal form games
+T42	Technical_Term 1662 1675	pure strategy
+T43	Technical_Term 1700 1713	pure strategy
+T44	Technical_Term 1719 1732	Bayesian game
+T45	Technical_Term 1736 1747	NP-complete
+T46	Technical_Term 1759 1784	strict and weak dominance
+T47	Technical_Term 1815 1823	strategy
+T48	Technical_Term 1845 1859	mixed strategy
+T49	Technical_Term 1881 1896	polynomial time
+T50	Technical_Term 1904 1931	single linear program solve
+T51	Technical_Term 1943 1968	strict and weak dominance
+T52	Technical_Term 1993 2011	iterated dominance
+T53	Technical_Term 2018 2033	pure strategies
+T54	Technical_Term 2087 2100	Bayesian game
+T55	Technical_Term 2112 2137	strict and weak dominance

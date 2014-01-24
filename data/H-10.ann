@@ -1,0 +1,20 @@
+T1	Technical_Term 0 22	Regularized Clustering
+T2	Technical_Term 54 73	document clustering
+T3	Technical_Term 164 198	unsupervised document organization
+T4	Technical_Term 200 226	automatic topic extraction
+T5	Technical_Term 237 258	information retrieval
+T6	Technical_Term 262 271	filtering
+T7	Technical_Term 345 359	regularization
+T8	Technical_Term 380 419	globally regularized clustering methods
+T9	Technical_Term 450 490	local regularized linear label predictor
+T10	Technical_Term 500 515	document vector
+T11	Technical_Term 544 562	local regularizers
+T12	Technical_Term 570 599	global smoothness regularizer
+T13	Technical_Term 626 673	Clustering with Local and Global Regularization
+T14	Technical_Term 675 679	CLGR
+T15	Technical_Term 760 784	eigenvalue decomposition
+T16	Technical_Term 790 813	sparse symmetric matrix
+T17	Technical_Term 850 867	iterative methods
+T18	Technical_Term 917 925	datasets
+T19	Technical_Term 969 973	CLGR
+T20	Technical_Term 991 1018	document clustering methods

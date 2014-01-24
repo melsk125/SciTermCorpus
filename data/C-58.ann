@@ -1,0 +1,22 @@
+T1	Technical_Term 2 52	Scalable Distributed Information Management System
+T2	Technical_Term 66 116	Scalable Distributed Information Management System
+T3	Technical_Term 118 123	SDIMS
+T4	Technical_Term 159 188	large-scale networked systems
+T5	Technical_Term 255 291	large-scale distributed applications
+T6	Technical_Term 421 426	SDIMS
+T7	Technical_Term 456 467	scalability
+T8	Technical_Term 542 554	applications
+T9	Technical_Term 630 655	node and network failures
+T10	Technical_Term 693 698	SDIMS
+T11	Technical_Term 718 741	Distributed Hash Tables
+T12	Technical_Term 743 746	DHT
+T13	Technical_Term 828 831	API
+T14	Technical_Term 971 985	DHT algorithms
+T15	Technical_Term 1357 1369	read latency
+T16	Technical_Term 1387 1396	flat DHTs
+T17	Technical_Term 758 784	scalable aggregation trees
+T18	Technical_Term 1018 1051	node and network reconfigurations
+T19	Technical_Term 1060 1078	lazy reaggregation
+T20	Technical_Term 1080 1103	on-demand reaggregation
+T21	Technical_Term 1109 1136	tunable spatial replication
+T22	Technical_Term 1234 1252	order of magnitude

@@ -1,0 +1,30 @@
+T1	Technical_Term 0 18	Topic Segmentation
+T2	Technical_Term 24 46	Shared Topic Detection
+T3	Technical_Term 83 111	Topic detection and tracking
+T4	Technical_Term 121 139	topic segmentation
+T5	Technical_Term 399 418	unsupervised method
+T6	Technical_Term 423 445	shared topic detection
+T7	Technical_Term 450 468	topic segmentation
+T8	Technical_Term 508 526	mutual information
+T9	Technical_Term 528 530	MI
+T10	Technical_Term 536 563	weighted mutual information
+T11	Technical_Term 565 568	WMI
+T12	Technical_Term 595 597	MI
+T13	Technical_Term 674 677	MI 
+T14	Technical_Term 681 684	WMI
+T15	Technical_Term 602 614	term weights
+T16	Technical_Term 643 663	optimal segmentation
+T17	Technical_Term 711 724	shared topics
+T18	Technical_Term 864 892	single-document segmentation
+T19	Technical_Term 918 945	multi-document segmentation
+T20	Technical_Term 1001 1010	cue terms
+T21	Technical_Term 1226 1254	single-document segmentation
+T22	Technical_Term 1256 1278	shared topic detection
+T23	Technical_Term 1284 1311	multi-document segmentation
+T24	Technical_Term 1108 1115	entropy
+T25	Technical_Term 1086 1098	term weights
+T26	Technical_Term 1066 1076	stop words
+T27	Technical_Term 1403 1421	topic segmentation
+T28	Technical_Term 1433 1436	WMI
+T29	Technical_Term 1463 1465	MI
+T30	Technical_Term 1474 1501	multi-document segmentation

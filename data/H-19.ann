@@ -1,0 +1,13 @@
+T1	Technical_Term 35 50	Event Detection
+T2	Technical_Term 340 359	unsupervised manner
+T3	Technical_Term 318 323	event
+T4	Technical_Term 365 383	document frequency
+T5	Technical_Term 427 438	time series
+T6	Technical_Term 466 513	document frequency - inverse document frequency
+T7	Technical_Term 515 520	DFIDF
+T8	Technical_Term 582 599	spectral analysis
+T9	Technical_Term 748 764	Gaussian density
+T10	Technical_Term 792 818	Gaussian mixture densities
+T11	Technical_Term 874 901	truncated Gaussian approach
+T12	Technical_Term 918 963	unsupervised greedy event detection algorithm
+T13	Technical_Term 1053 1069	time series data
